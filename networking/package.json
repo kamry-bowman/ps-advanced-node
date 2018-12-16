@@ -1,0 +1,11 @@
+{
+  "name": "net",
+  "version": "1.0.0",
+  "main": "net.js",
+  "scripts": {
+    "dev": "nodemon"
+  },
+  "devDependencies": {
+    "nodemon": "^1.18.9"
+  }
+}
